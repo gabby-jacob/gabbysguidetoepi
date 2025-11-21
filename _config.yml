@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+#theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Gabby's Guide to Epi"
 title_separator          : "-"
-subtitle                 : "All the epi stuff I can't remember"
+subtitle                 : "All the epi stuff I need to remember"
 name                     : "Gabby Jacob"
 description              : "A guide to applied epidemiology, R coding, and more..."
 url                      : "https://gabby-jacob.github.io"
