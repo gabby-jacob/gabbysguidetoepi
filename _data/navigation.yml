@@ -1,12 +1,13 @@
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+epi_guide:
+  - title: "Getting Started"
+    url: /
+  - title: "Epi Theory"
+    url: /epi-theory/
+  - title: "Epi Code"
+    url: /epi-code/
+  - title: "Blog"
+    url: /blog/
+  - title: "Languages"
+    url: /languages/
+  - title: "Presentations"
+    url: /presentations/
