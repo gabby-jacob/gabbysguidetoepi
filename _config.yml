@@ -10,8 +10,8 @@ title_separator: "-"
 subtitle: "Epidemiology theory, R coding, and more!"
 name: "Gabby Gabby Gabby"
 description: "This guide is to help me (and anyone else) have a practical grasp of epi theory and coding."
-url: "https://gabby-jacob.github.io"
-baseurl: "/gabbysguidetoepi"
+url: "https://gabbysguidetoepi.com"
+baseurl: ""
 repository: "gabby-jacob/gabbysguidetoepi"
 teaser:
 logo:
